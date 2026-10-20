@@ -1,0 +1,23 @@
+name: Validate local learning labs
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  local-labs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Compile examples without importing external runtimes
+        run: python -m compileall -q python sql kafka airflow pyspark pandas data-quality
+      - name: Run correctness tests
+        run: python -m unittest discover -s tests -v
+      - name: Run and replay local project
+        run: |
+          python python/etl.py
+          python python/etl.py
+          python sql/run.py
+          python kafka/replay.py
+          python data-quality/check.py
