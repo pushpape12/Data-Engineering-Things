@@ -1,0 +1,13 @@
+version: 2
+models:
+  - name: stg_orders
+    description: Latest valid order state from a synthetic seed.
+    columns:
+      - name: order_id
+        data_tests: [unique, not_null]
+      - name: customer_id
+        data_tests: [not_null]
+  - name: customer_revenue
+    columns:
+      - name: customer_id
+        data_tests: [unique, not_null]

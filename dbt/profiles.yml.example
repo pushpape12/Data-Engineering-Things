@@ -1,0 +1,7 @@
+de_learning:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: output/de_learning.duckdb
+      threads: 1

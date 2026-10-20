@@ -1,0 +1,9 @@
+name: de_learning
+version: '1.0.0'
+config-version: 2
+profile: de_learning
+model-paths: [models]
+seed-paths: [seeds]
+models:
+  de_learning:
+    +materialized: view
