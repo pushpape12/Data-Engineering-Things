@@ -4,6 +4,10 @@ Separate read, transform, publish and administration privileges in data systems.
 
 [Back to repository index](../README.md)
 
+## Interview revision
+
+Read the [detailed topic explanations, worked examples and interview answers](INTERVIEW.md). Every original topic in this guide is expanded there.
+
 ## Prerequisites and lab
 
 Conceptual examples and commented grant templates only. No live security settings are changed.

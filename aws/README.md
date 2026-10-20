@@ -4,6 +4,10 @@ Compose object storage, catalog, compute and query services around an explicit d
 
 [Back to repository index](../README.md)
 
+## Interview revision
+
+Read the [detailed topic explanations, worked examples and interview answers](INTERVIEW.md). Every original topic in this guide is expanded there.
+
 ## Prerequisites and lab
 
 Cloud templates only. Requires AWS CLI, an authorized sandbox role, appropriate region and existing resources. Queries and jobs can incur charges; this folder provisions nothing.

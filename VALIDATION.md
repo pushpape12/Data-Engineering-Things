@@ -2,7 +2,13 @@
 
 [Repository index](README.md)
 
-## Local checks
+## Interview expansion (2026-10-20)
+
+Added 23 interview study files covering 92 topics, expanding all 81 original topics, plus six standalone SQL coding exercises and a revision hub.
+
+**New exercises were not executed in this revision:** the execution environment was unavailable. Expected outputs are worked answers, not measured results. Static checks verify topic coverage, Markdown fence balance, relative file links against the repository tree and content section completeness. The source examples and previously recorded test results below are retained; they do not establish runtime validation of the new snippets. Read the actual GitHub Actions status separately.
+
+## Previously executed local checks
 
 The following are executed before publication in the development environment:
 

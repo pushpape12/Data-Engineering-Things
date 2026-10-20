@@ -4,6 +4,10 @@ Use distributed DataFrames when data volume and shuffle work justify a cluster. 
 
 [Back to repository index](../README.md)
 
+## Interview revision
+
+Read the [detailed topic explanations, worked examples and interview answers](INTERVIEW.md). Every original topic in this guide is expanded there.
+
 ## Prerequisites and lab
 
 Optional runtime lab: Python, a compatible JDK and PySpark. In a separate environment install `pyspark>=3.5,<5`, then run `python pyspark/orders.py`. Choose compatible Java/Python versions for your selected Spark release; not executed here.

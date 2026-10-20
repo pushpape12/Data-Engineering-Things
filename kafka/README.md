@@ -4,6 +4,10 @@ Reason about keys, partitions, offsets and durable side effects before building 
 
 [Back to repository index](../README.md)
 
+## Interview revision
+
+Read the [detailed topic explanations, worked examples and interview answers](INTERVIEW.md). Every original topic in this guide is expanded there.
+
 ## Prerequisites and lab
 
 Run `python kafka/replay.py` with standard Python. This is a local semantics simulation, not a broker integration test. For a real broker, follow the official quickstart in an isolated environment.

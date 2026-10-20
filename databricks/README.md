@@ -4,6 +4,10 @@ Use Delta transactions with layered data products; distinguish Databricks platfo
 
 [Back to repository index](../README.md)
 
+## Interview revision
+
+Read the [detailed topic explanations, worked examples and interview answers](INTERVIEW.md). Every original topic in this guide is expanded there.
+
 ## Prerequisites and lab
 
 Run `merge.sql` in a Databricks SQL warehouse or compatible Delta-enabled environment. Requires table creation privileges; not executed here.

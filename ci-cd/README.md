@@ -4,6 +4,10 @@ Review transformation changes together with contracts and replay behavior before
 
 [Back to repository index](../README.md)
 
+## Interview revision
+
+Read the [detailed topic explanations, worked examples and interview answers](INTERVIEW.md). Every original topic in this guide is expanded there.
+
 ## Prerequisites and lab
 
 The [GitHub Actions workflow](../.github/workflows/validate.yml) runs on pushes and pull requests. It deliberately does not install Spark, Airflow, dbt or cloud credentials.

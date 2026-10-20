@@ -4,6 +4,10 @@ Understand how ADLS storage, orchestration and analytics services fit together.
 
 [Back to repository index](../README.md)
 
+## Interview revision
+
+Read the [detailed topic explanations, worked examples and interview answers](INTERVIEW.md). Every original topic in this guide is expanded there.
+
 ## Prerequisites and lab
 
 Architecture and configuration examples for an Azure sandbox; no resources created. Use ADF Studio or your approved deployment process for executable activities.

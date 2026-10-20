@@ -4,6 +4,10 @@ Choose serialization and physical layout based on access patterns, schema stabil
 
 [Back to repository index](../README.md)
 
+## Interview revision
+
+Read the [detailed topic explanations, worked examples and interview answers](INTERVIEW.md). Every original topic in this guide is expanded there.
+
 ## Prerequisites and lab
 
 Illustrative formats and an optional pandas/pyarrow round-trip. No Parquet engine is required for the standard-library project.

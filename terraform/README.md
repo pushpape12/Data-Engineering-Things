@@ -4,6 +4,10 @@ Model infrastructure inputs and review plans before any resource change.
 
 [Back to repository index](../README.md)
 
+## Interview revision
+
+Read the [detailed topic explanations, worked examples and interview answers](INTERVIEW.md). Every original topic in this guide is expanded there.
+
 ## Prerequisites and lab
 
 Optional Terraform 1.5+ (<2.0) CLI lab; not executed here. No infrastructure resources are declared.

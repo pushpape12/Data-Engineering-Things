@@ -4,6 +4,10 @@ Validate structure, business meaning and publication readiness separately.
 
 [Back to repository index](../README.md)
 
+## Interview revision
+
+Read the [detailed topic explanations, worked examples and interview answers](INTERVIEW.md). Every original topic in this guide is expanded there.
+
 ## Prerequisites and lab
 
 Python standard-library lab. Run the ETL first, then check.py. The checker opens the output database read-only.

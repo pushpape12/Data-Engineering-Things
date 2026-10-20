@@ -4,6 +4,10 @@ Combine GCS landing data, BigQuery warehouse models and orchestration with sourc
 
 [Back to repository index](../README.md)
 
+## Interview revision
+
+Read the [detailed topic explanations, worked examples and interview answers](INTERVIEW.md). Every original topic in this guide is expanded there.
+
 ## Prerequisites and lab
 
 Run `bigquery.sql` only after replacing the project and creating a sandbox dataset. Needs BigQuery job/table permissions and can incur charges; not executed here.

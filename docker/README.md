@@ -4,6 +4,10 @@ Package a reproducible pipeline runtime while keeping configuration and data sep
 
 [Back to repository index](../README.md)
 
+## Interview revision
+
+Read the [detailed topic explanations, worked examples and interview answers](INTERVIEW.md). Every original topic in this guide is expanded there.
+
 ## Prerequisites and lab
 
 Optional Docker Engine lab; build/run not executed here. Dockerfile uses a Python 3.12 image tag for readability, not a locked production digest.

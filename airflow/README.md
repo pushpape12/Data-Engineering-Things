@@ -4,6 +4,10 @@ Orchestrate dependencies and recovery; keep heavy data processing outside the sc
 
 [Back to repository index](../README.md)
 
+## Interview revision
+
+Read the [detailed topic explanations, worked examples and interview answers](INTERVIEW.md). Every original topic in this guide is expanded there.
+
 ## Prerequisites and lab
 
 Airflow 3.x SDK example. Use an existing isolated Airflow environment; copy `orders_dag.py` into its dags folder and run `airflow dags test orders_learning 2026-10-02`. Not runtime-tested here.

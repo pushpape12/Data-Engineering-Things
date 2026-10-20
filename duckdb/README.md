@@ -4,6 +4,10 @@ Run analytical SQL locally over files without operating a database server.
 
 [Back to repository index](../README.md)
 
+## Interview revision
+
+Read the [detailed topic explanations, worked examples and interview answers](INTERVIEW.md). Every original topic in this guide is expanded there.
+
 ## Prerequisites and lab
 
 Optional DuckDB CLI lab, not executed here. Run from repository root. The bundled SQL uses temporary views and creates no persistent database.

@@ -4,6 +4,10 @@ Design pipelines around explicit grain, source ordering, data contracts and reco
 
 [Back to repository index](../README.md)
 
+## Interview revision
+
+Read the [detailed topic explanations, worked examples and interview answers](INTERVIEW.md). Every original topic in this guide is expanded there.
+
 ## Prerequisites and lab
 
 Start with [sample data](../datasets/README.md), then run the [Python lab](../python/README.md).

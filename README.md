@@ -4,6 +4,10 @@ A practical data engineering learning repository: technology guides, worked topi
 examples and a runnable pipeline that handles duplicates, stale events and rejects.
 All example data is synthetic. Start with concepts, then choose tools for a problem.
 
+## Preparing for an interview?
+
+Start with the **[interview revision hub](INTERVIEW-PREP.md)**. It links **92 detailed topics across 23 technology/skill areas**, plus a **[six-question SQL coding workbook](sql/INTERVIEW-EXERCISES.md)**. Each topic explains the concept, gives a worked example and expected result, and includes a question/answer, common mistake and practice variation.
+
 ## Start in five minutes
 
 Requires Python 3.11+ with sqlite3. Run from the repository root; no account or pip

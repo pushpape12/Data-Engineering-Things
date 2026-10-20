@@ -24,3 +24,7 @@ Flink, Beam, Hadoop/Hive, Trino, Kubernetes, Debezium, MongoDB, Elasticsearch,
 Power BI and platform-specific advanced topics are natural later modules.
 Add a module only with explanation, a worked example, expected results and honest
 validation status; a folder name alone is not a completed lesson.
+
+## Interview mode
+
+Use the [interview revision hub](INTERVIEW-PREP.md) to revise topic explanations and practise scenario answers. For coding preparation, attempt the [SQL workbook](sql/INTERVIEW-EXERCISES.md) before reading its expandable solutions. Every technology guide now links to its detailed INTERVIEW.md notes.

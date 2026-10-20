@@ -4,6 +4,10 @@ Practice warehouse SQL, loading, semi-structured data, incremental state and ope
 
 [Back to repository index](../README.md)
 
+## Interview revision
+
+Read the [detailed topic explanations, worked examples and interview answers](INTERVIEW.md). Every original topic in this guide is expanded there.
+
 ## Prerequisites and lab
 
 Use a Snowflake sandbox with an existing warehouse. Execute `examples.sql` interactively. `streams-tasks.sql` needs extra privileges and a warehouse substitution; it does not resume the task. Cloud SQL has not been executed here.

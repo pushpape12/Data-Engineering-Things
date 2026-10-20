@@ -4,6 +4,10 @@ Transform in-memory datasets with explicit dtypes; switch to out-of-core or dist
 
 [Back to repository index](../README.md)
 
+## Interview revision
+
+Read the [detailed topic explanations, worked examples and interview answers](INTERVIEW.md). Every original topic in this guide is expanded there.
+
 ## Prerequisites and lab
 
 Install a compatible pandas 2.x/3.x in a separate environment if needed. Run `python pandas/transform.py` from repository root. Fixture output is tested locally.

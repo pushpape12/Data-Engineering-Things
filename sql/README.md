@@ -4,6 +4,10 @@ Learn relational transformations before scaling to distributed engines. SQL dial
 
 [Back to repository index](../README.md)
 
+## Interview revision
+
+Read the [detailed topic explanations, worked examples and interview answers](INTERVIEW.md). Every original topic in this guide is expanded there.
+
 ## Prerequisites and lab
 
 Run `python sql/run.py`; the script creates an in-memory database, loads `examples.sql`, checks totals and exits.

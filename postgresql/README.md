@@ -4,6 +4,10 @@ Practice transactional upserts, keys and query plans before using a database as 
 
 [Back to repository index](../README.md)
 
+## Interview revision
+
+Read the [detailed topic explanations, worked examples and interview answers](INTERVIEW.md). Every original topic in this guide is expanded there.
+
 ## Prerequisites and lab
 
 Run `upsert.sql` with psql in a sandbox, for example `psql "$DATABASE_URL" -v ON_ERROR_STOP=1 -f postgresql/upsert.sql`. Provide the connection through your secure environment; the SQL rolls back its table.

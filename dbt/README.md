@@ -4,6 +4,10 @@ Express warehouse transformations as versioned models with dependencies and data
 
 [Back to repository index](../README.md)
 
+## Interview revision
+
+Read the [detailed topic explanations, worked examples and interview answers](INTERVIEW.md). Every original topic in this guide is expanded there.
+
 ## Prerequisites and lab
 
 Optional local lab: in a dedicated environment install compatible `dbt-core` and `dbt-duckdb`. From `dbt/`, copy `profiles.yml.example` to `profiles.yml`, create `output/`, and run the commands below. Do not commit real profiles with secrets.

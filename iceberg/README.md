@@ -4,6 +4,10 @@ Distinguish a columnar file from a transactional table whose metadata manages sn
 
 [Back to repository index](../README.md)
 
+## Interview revision
+
+Read the [detailed topic explanations, worked examples and interview answers](INTERVIEW.md). Every original topic in this guide is expanded there.
+
 ## Prerequisites and lab
 
 Spark SQL templates only; configure Iceberg extensions/catalog and matching Spark/Scala artifacts using the official docs. Not executed here.

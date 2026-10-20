@@ -4,6 +4,10 @@ Build small, explicit transformations with validation, deterministic ordering an
 
 [Back to repository index](../README.md)
 
+## Interview revision
+
+Read the [detailed topic explanations, worked examples and interview answers](INTERVIEW.md). Every original topic in this guide is expanded there.
+
 ## Prerequisites and lab
 
 Python 3.11+ with sqlite3; no pip installs. Run `python python/etl.py` from the repository root. Output is a local ignored SQLite file.

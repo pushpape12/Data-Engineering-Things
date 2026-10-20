@@ -4,6 +4,10 @@ Track whether correct data arrived on time, not only whether a process exited su
 
 [Back to repository index](../README.md)
 
+## Interview revision
+
+Read the [detailed topic explanations, worked examples and interview answers](INTERVIEW.md). Every original topic in this guide is expanded there.
+
 ## Prerequisites and lab
 
 Worked metric and runbook designs, with a query runnable against output/orders.db. No telemetry backend is installed.
